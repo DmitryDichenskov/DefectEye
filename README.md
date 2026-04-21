@@ -26,17 +26,21 @@
 
 🚀 Быстрый старт
 1. Установка зависимостей
-bash
+   
 pip install gradio ultralytics flask opencv-python
 
 2. Подготовка
-text
+
 📁 your_project/
+
 ├── best.pt              # Ваша обученная модель YOLO
+
 ├── app.py              # Основной скрипт
+
 └── /path/to/your/video/folder/  # Папка с видео (укажите путь)
+
 3. Запуск
-bash
+
 python app.py
 4. Доступ к интерфейсам
 text
