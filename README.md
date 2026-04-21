@@ -15,10 +15,13 @@
 📱 Доступно везде — Gradio UI и Flask API на разных портах
 
 🛠 Технологии
-text
+
 🤖 YOLO11 (Ultralytics)    # Детекция объектов
+
 🎨 Gradio                 # Веб-интерфейс
+
 ⚗️ Flask                  # REST API
+
 📁 Python 3.8+           # Язык разработки
 
 🚀 Быстрый старт
