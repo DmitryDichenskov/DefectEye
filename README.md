@@ -1,4 +1,4 @@
-Детекция изъянов на металле 🚀
+<img width="368" height="221" alt="image" src="https://github.com/user-attachments/assets/01a87d32-726c-4b9d-8309-68f47d318d68" />Детекция изъянов на металле 🚀
 Автоматическая система обнаружения дефектов на металлических поверхностях с использованием YOLO11 и Gradio UI
 
 ✨ Особенности
@@ -68,21 +68,15 @@ json
 
 ⚙️ Конфигурация
 Параметр	Описание	По умолчанию
+
 MODEL_PATH	Путь к модели YOLO	best.pt
+
 VIDEO_DIR	Папка с видео	/path/to/your/video/folder
+
 SAVE_DIR	Папка результатов	web_results/
+
 PASSWORD	Пароль API	your_secret_password
-📁 Структура результатов
-text
-web_results/
-├── web_image_1234567890.jpg     # Результаты фото
-└── video_results/
-    ├── video1/
-    │   ├── video1.mp4
-    │   ├── video1_pred.jpg
-    │   └── labels/
-    └── video2/
-        └── ...
+    
 🔍 Поддерживаемые форматы видео
 .mp4
 
@@ -93,8 +87,3 @@ web_results/
 .mkv
 
 .webm
-
-📞 Контакты
-Автор: TheKodDima
-Email: your.email@example.com
-GitHub: github.com/yourusername
